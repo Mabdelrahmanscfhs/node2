@@ -16,7 +16,7 @@ versioncheck-bg.addons.mozilla.org:HPKP	0	18536	1606722186044,1,1,WoiWRyIOVNa9ih
 www.centos.org:HSTS	0	18536	1633073677644,1,0,2
 location.services.mozilla.com:HSTS	0	18536	1633073672381,1,1,2
 aus5.mozilla.org:HSTS	0	18536	1633074186632,1,0,2
-shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18536	1633124079629,1,1,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18536	1633127679691,1,1,2
 www.google.com:HSTS	0	18536	1633081500206,1,0,2
 collector.githubapp.com:HSTS	0	18536	2232684021752,1,0,2
 ogs.google.com:HSTS	0	18536	1633081498826,1,0,2
